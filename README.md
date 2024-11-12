@@ -36,8 +36,4 @@ Dil becerilerinizi geliştirirken eğlenceli vakit geçirebileceğiniz, Türkçe
 
 ## 👨‍💻 Geliştirici Notları
 
-Bu proje, Türkçe'nin zenginliklerini teknoloji ile buluşturma ve eğlenceli bir öğrenme deneyimi sunma amacıyla geliştirilmiştir.
-
-## 📝 Lisans
-
-MIT License
+Bu proje, bulmaca cözüm yardımcısı.
